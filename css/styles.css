@@ -532,7 +532,7 @@ background-color: rgba(46, 47, 66, 0.40);
 }
 .modal{
 width: 408px;
-height: 584px;
+min-height: 584px;
 border-radius: 4px;
 background-color: #FCFCFC;
   position: absolute;
@@ -552,7 +552,16 @@ right: 24px;
 width: 24px;
 height: 24px;
 border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
 }
 .modal-btn-icon{
    stroke: #2E2F42;
+}
+.modal-title{
+    color: #2E2F42;
+text-align: center;
+font-weight: 500;
+padding-top: 72px;
 }
