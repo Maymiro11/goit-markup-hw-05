@@ -549,9 +549,8 @@ border: none;
 position: absolute;
 top: 24px;
 right: 24px;
-/* fill: transparent;
-stroke: #2E2F42;  */
 }
 .modal-btn-icon{
-   
+   /* fill: transparent;
+   stroke: #2E2F42; */
 }
