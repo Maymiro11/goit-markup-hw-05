@@ -549,8 +549,10 @@ border: none;
 position: absolute;
 top: 24px;
 right: 24px;
+width: 24px;
+height: 24px;
+border-radius: 50%;
 }
 .modal-btn-icon{
-   /* fill: transparent;
-   stroke: #2E2F42; */
+   stroke: #2E2F42;
 }
