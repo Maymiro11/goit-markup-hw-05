@@ -661,5 +661,10 @@ display: block;
     stroke: #2E2F42;
 fill: transparent;
 position: absolute;
-
+left: 16px;
+top: 50%;
+transform: translate(-50%);
+}
+.input-wrap{
+    position: relative;
 }
