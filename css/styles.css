@@ -657,3 +657,9 @@ display: block;
 .modal-field{
     margin-bottom: 8px;
 }
+.modal-icon{
+    stroke: #2E2F42;
+fill: transparent;
+position: absolute;
+
+}
