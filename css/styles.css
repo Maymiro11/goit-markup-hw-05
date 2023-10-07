@@ -792,3 +792,9 @@ rgba(46, 47, 66, 0.4);
 .checkbox-field {
     margin-bottom: 24px;
 }
+.check-link {
+    outline: transparent;
+    background-color: transparent;
+    color: #4D5AE5;
+    text-decoration-line: underline;
+}
