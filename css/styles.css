@@ -675,6 +675,11 @@ border: none;
 display: block;
 min-width: 169px;
 height: 56px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+cursor: pointer;
+line-height: 1.5;
+letter-spacing: 0.04em;
 } 
 .modal-label{
 color: #8E8F99;
